@@ -1,0 +1,36 @@
+_repo: The-Fall-of-Troy_658
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Way, Arthur S. (Arthur Sanders)
+    alias: Way, Arthur Sanders
+    birthdate: 1847
+    deathdate: 1930
+    gutenberg_agent_id: '340'
+    url: http://www.gutenberg.org/2009/agents/340
+creator:
+  author:
+    agent_name: Quintus, Smyrnaeus, active 4th century
+    aliases:
+    - Calaber, Quintus
+    - Smyrnaeus, Quintus
+    gutenberg_agent_id: '339'
+    url: http://www.gutenberg.org/2009/agents/339
+    wikipedia: http://en.wikipedia.org/wiki/Quintus_Smyrnaeus
+description: ''
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trojan War -- Poetry'
+- !lcsh 'Troy (Extinct city) -- Poetry'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+- !lcc 'PA'
+- GITenberg
+title: The Fall of Troy
+url: http://www.gutenberg.org/ebooks/658
